@@ -16,4 +16,11 @@ For this project I will be using Parrot OS combined with a network adapter and t
 • Use airodump to associate clients with a given access point, get the client MAC address, and set a dumpfile to start collecting their network traffic/comms.   
 
 
-## 3. 
+## 3. De-authentication Attack
+• use aireplay-ng to target a client, and send deauthentication packets to disassociate them with the AP, knocking them off the network.   
+
+
+## 4. Capture EAPOL Handshake
+As the device reconnects to their trusted network, airodump will capture the WPA handshake between the client and the AP; you can verify all parts of the EAPOL message in Wireshark.
+
+
