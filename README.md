@@ -17,9 +17,9 @@ For this project I will be using Parrot OS combined with a network adapter and t
 
 <img width="3840" height="2036" alt="1" src="https://github.com/user-attachments/assets/649fc33d-e460-4146-af6c-a89ad5b08a12" />
 
-<img width="3840" height="2095" alt="3" src="https://github.com/user-attachments/assets/982d3d6e-cbe3-4eb0-8c6e-76a7134fdf92" />
+<img width="3840" height="2095" alt="airodump" src="https://github.com/user-attachments/assets/4e9ac5d3-fbbc-4ce2-bb88-59bd38a74e08" />
 
-<img width="3779" height="766" alt="4" src="https://github.com/user-attachments/assets/d8472f8b-f22f-4aa6-b03b-f8c55417c061" />
+<img width="3779" height="766" alt="airodump" src="https://github.com/user-attachments/assets/a6034613-b9c0-44a7-8814-97f9cba4592f" />
 
 
 ## 3. De-authentication Attack
@@ -29,10 +29,10 @@ For this project I will be using Parrot OS combined with a network adapter and t
 ## 4. Capture EAPOL Handshake
 • As the device reconnects to their trusted network, airodump will capture the WPA handshake between the client and the AP; you can verify all parts of the EAPOL message in Wireshark.
 
-<img width="3840" height="2025" alt="handshake" src="https://github.com/user-attachments/assets/eb42bff4-face-49e5-83d1-a60168087ef0" />
+<img width="3840" height="2025" alt="handshake" src="https://github.com/user-attachments/assets/419cea1e-c4d3-403d-a172-80c4a15a50a3" />
 
 ## EPOL Handshak in Wireshark
-<img width="3840" height="1953" alt="Wireshark eapol" src="https://github.com/user-attachments/assets/bbe9b70d-793f-420f-ae93-2556635a7f4a" />
+<img width="3840" height="1953" alt="Wireshark eapol" src="https://github.com/user-attachments/assets/d9a20fb3-7841-4e2b-9131-224b70314cc7" />
 
 
 
