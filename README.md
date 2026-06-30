@@ -25,6 +25,10 @@ For this project I will be using Parrot OS combined with a network adapter and t
 ## 3. De-authentication Attack
 • use aireplay-ng to target a client, and send deauthentication packets to disassociate them with the AP, knocking them off the network.   
 
+<img width="3840" height="1171" alt="1 De-auth" src="https://github.com/user-attachments/assets/ee97f4ab-baa0-4253-bbda-eece59c7ace3" />
+
+<img width="2049" height="1007" alt="de-auth" src="https://github.com/user-attachments/assets/e3072984-24dc-4160-baf3-87f03ac366d8" />
+
 
 ## 4. Capture EAPOL Handshake
 • As the device reconnects to their trusted network, airodump will capture the WPA handshake between the client and the AP; you can verify all parts of the EAPOL message in Wireshark.
